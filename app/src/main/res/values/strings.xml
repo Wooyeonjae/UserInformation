@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">연재의 UserInformation</string>
+    <string name="app_name">연재의 User Information</string>
     <string name="text_name">사용자 이름</string>
     <string name="text_email">이메일 주소</string>
     <string name="but_str">여기를 클릭</string>
